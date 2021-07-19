@@ -56,7 +56,7 @@ export const StyledCard = styled.div`
     border-radius: 5px;
     color: #727783;
     font-weight: 600;
-    min-width: 20px;
+    min-width: 25px;
   }
   .fa-angle-up{
       font-weight: 900;
